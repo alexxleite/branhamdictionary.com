@@ -1,8 +1,8 @@
-## Conheça os Ensinamentos do Profeta da Era, William Marrion Branham.
+## Conheça os Ensinamentos do Profeta da Era.
 
 You can use the [editor on GitHub](https://github.com/alexxleite/branhamdictionary.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run ["Ai das Grávidas"](https://youtu.be/6P3HXPpWaBc) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
