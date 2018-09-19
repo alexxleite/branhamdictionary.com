@@ -1,10 +1,11 @@
 ## Conheça os Ensinamentos do Profeta da Era.
-<--
+'''
 You can use the [editor on GitHub](https://github.com/alexxleite/branhamdictionary.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
--->
+'''
 
-### Markdown
-Último lançamento em video: Pergunta e Respostas 1 ["Ai das Grávidas"](https://youtu.be/6P3HXPpWaBc) sobre Mateus 24:19
+### Últimos lançamentos em video:
+- Pergunta e Respostas 1 ["Ai das Grávidas"](https://youtu.be/6P3HXPpWaBc) sobre Mateus 24:19
+- A Fase Presente do Meu Ministério ["Paulo, O Apóstolo](https://youtu.be/MQSAEFBf7zs) sobre o Ministério de Paulo
 
 ### Markdown
 
