@@ -1,4 +1,4 @@
-## Benvindo as Verdades Proféticas
+## Conheça os Ensinamentos do Profeta da Era, William Marrion Branham.
 
 You can use the [editor on GitHub](https://github.com/alexxleite/branhamdictionary.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
