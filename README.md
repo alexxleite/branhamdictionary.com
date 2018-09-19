@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/alexxleite/branhamdictiona
 
 ### Últimos lançamentos em video:
 - Pergunta e Respostas 1 ["Ai das Grávidas"](https://youtu.be/6P3HXPpWaBc) sobre Mateus 24:19
-- A Fase Presente do Meu Ministério ["Paulo, O Apóstolo](https://youtu.be/MQSAEFBf7zs) sobre o Ministério de Paulo
+- A Fase Presente do Meu Ministério ["Paulo, O Maior do Apóstolo"](https://youtu.be/MQSAEFBf7zs) sobre o Ministério de Paulo
 
 ### Markdown
 
