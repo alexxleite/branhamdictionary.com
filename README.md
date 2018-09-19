@@ -1,7 +1,8 @@
 ## Conheça os Ensinamentos do Profeta da Era.
-'''
-You can use the [editor on GitHub](https://github.com/alexxleite/branhamdictionary.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-'''
+"Eu estava batizando lá embaixo no rio, meus primeiros convertidos, no Rio Ohio, e a décima-sétima pessoa que eu estava batizando, quando comecei a batizar, então eu disse: “Pai, como eu o batizo com água, batiza-o Tu com o Espírito Santo.” Comecei a - a colocá-lo debaixo da água.
+E justamente naquela hora um redemoinho veio de cima dos céus, e aqui veio aquela Luz, brilhando para baixo. Centenas e centenas de pessoas na margem, bem às duas horas da tarde, em junho. E Ela pairou exatamente sobre o lugar onde eu estava. Uma Voz falou dali, e disse: “Assim como João Batista foi enviado como o precursor da primeira vinda de Cristo, você tem uma... tem uma Mensagem que precursará a Segunda Vinda de Cristo.” E quase me matou de susto." Mensagem Como O Anjo Veio A Mim e Sua Comissão
+
+(https://github.com/alexxleite/branhamdictionary.com/edit/master/README.md)
 
 ### Últimos lançamentos em video:
 - Pergunta e Respostas 1 ["Ai das Grávidas"](https://youtu.be/6P3HXPpWaBc) sobre Mateus 24:19
